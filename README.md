@@ -3,5 +3,5 @@
 
 Basic Sorting Algorithms Visualisation with SDL c++ <br>
 Features:
-- changing background color
-- changing column color
+- optional background color
+- optional column color
